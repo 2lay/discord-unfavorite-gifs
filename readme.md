@@ -48,6 +48,7 @@ This script automates the process of unfavoriting all gifs.
 - Ensure that you are on the correct webpage where the button exists before running the script.
 - The script will continue to run until the button is no longer found on the page or you manually stop it by refreshing the page.
 - Rate limiting may cause not all GIFs to be removed. A reload of the page and re-execution of the script may be required.
+- Using scripts to automate actions on Discord may violate the Terms of Service.
 
 ## License
 - This project is licensed under the GNU GPLv3 License.
